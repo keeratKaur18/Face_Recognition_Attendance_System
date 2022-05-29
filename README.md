@@ -23,6 +23,8 @@ Face recognition systems use computer algorithms to pick out specific, distincti
 - STEP 5: comparing encodings obtained from live feed to the encodings obtained from original images
 - STEP 6: function to mark attendance in csv file
 
+## U/I of Wep Application
+
 
 ## Prerequisites
 Libraries/Packages:
