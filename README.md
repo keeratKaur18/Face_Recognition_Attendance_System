@@ -41,6 +41,8 @@ Face recognition systems use computer algorithms to pick out specific, distincti
 
 ![Screenshot 2022-05-29 at 4 18 14 PM](https://user-images.githubusercontent.com/98026175/170864530-63a0fb0c-b610-43a9-9071-c04880dfe5a2.png)
 
+On the click of a button the attendance gets displayed 
+
 ![Screenshot 2022-05-29 at 4 24 01 PM](https://user-images.githubusercontent.com/98026175/170864591-7b6fff63-abc7-4375-96b2-8ed3b065d8d8.png)
 
 Unfortunately I can't bring them to test my project,So I tested the code by showing images of the person through my live feed
