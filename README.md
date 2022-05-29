@@ -28,24 +28,12 @@ Face recognition systems use computer algorithms to pick out specific, distincti
 - STEP 5: comparing encodings obtained from live feed to the encodings obtained from original images
 - STEP 6: function to mark attendance in csv file
 
-## U/I of Web Application
+## UI of Web Application
 ![Screenshot 2022-05-29 at 11 42 12 AM](https://user-images.githubusercontent.com/98026175/170864455-d1ca33f4-5424-44f3-b359-297fc560c0b0.png)
 
 ![Screenshot 2022-05-29 at 11 57 46 AM](https://user-images.githubusercontent.com/98026175/170864486-ae15897b-c583-431e-a562-483bb7f0a988.png)
 
-![Screenshot 2022-05-29 at 4 22 26 PM](https://user-images.githubusercontent.com/98026175/170864496-78fe9b98-4619-4e3e-9a12-bc92e03f03d9.png)
-
-![Screenshot 2022-05-29 at 4 40 36 PM](https://user-images.githubusercontent.com/98026175/170865038-fb59ce4b-46d8-4f15-94d1-7b279f15f8a2.png)
-
-![Screenshot 2022-05-29 at 4 20 58 PM](https://user-images.githubusercontent.com/98026175/170864508-0f05399b-ea33-4426-be1e-ad9ad13384ce.png)
-
-![Screenshot 2022-05-29 at 4 18 14 PM](https://user-images.githubusercontent.com/98026175/170864530-63a0fb0c-b610-43a9-9071-c04880dfe5a2.png)
-
-On the click of a button the attendance gets displayed 
-
-![Screenshot 2022-05-29 at 4 24 01 PM](https://user-images.githubusercontent.com/98026175/170864591-7b6fff63-abc7-4375-96b2-8ed3b065d8d8.png)
-
-Unfortunately I can't bring them to test my project,So I tested the code by showing images of the person through my live feed
+![Screenshot 2022-05-29 at 11 46 00 AM](https://user-images.githubusercontent.com/98026175/170865983-bb2b3b9c-e74f-4b50-bdd4-4712477292ba.png)
 
 ## Prerequisites
 Libraries/Packages:
@@ -70,6 +58,23 @@ Streamlit library has been used for building the web page.
 
 Considering a hypothetical situation where a few random celebrities are taking the same class!
 I chose the images of a few famous celebrities and complied them into the images folder.
+
+## Testing
+
+![Screenshot 2022-05-29 at 4 22 26 PM](https://user-images.githubusercontent.com/98026175/170864496-78fe9b98-4619-4e3e-9a12-bc92e03f03d9.png)
+
+![Screenshot 2022-05-29 at 4 40 36 PM](https://user-images.githubusercontent.com/98026175/170865038-fb59ce4b-46d8-4f15-94d1-7b279f15f8a2.png)
+
+![Screenshot 2022-05-29 at 4 20 58 PM](https://user-images.githubusercontent.com/98026175/170864508-0f05399b-ea33-4426-be1e-ad9ad13384ce.png)
+
+![Screenshot 2022-05-29 at 4 18 14 PM](https://user-images.githubusercontent.com/98026175/170864530-63a0fb0c-b610-43a9-9071-c04880dfe5a2.png)
+
+
+**On the click of a button the attendance gets displayed**
+
+![Screenshot 2022-05-29 at 4 24 01 PM](https://user-images.githubusercontent.com/98026175/170864591-7b6fff63-abc7-4375-96b2-8ed3b065d8d8.png)
+
+Unfortunately I can't bring them to test my project,So I tested the code by showing images of the person through my live feed
 
 ## Executing Program
 The following statement can be typed in the terminal for the web app to run on local host
