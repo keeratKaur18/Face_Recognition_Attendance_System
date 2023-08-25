@@ -81,7 +81,7 @@ The following statement can be typed in the terminal for the web app to run on l
 
 `Facial_Recognition_System % streamlit run design.py`
 
-##Demo Video
+## Demo Video
 https://drive.google.com/file/d/14J_7qOjC1gZJ-6EBy58pnmkDJ1Omzq75/view?usp=sharing
 
 ## Acknowledgement
